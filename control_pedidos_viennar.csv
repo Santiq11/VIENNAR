@@ -1,0 +1,2 @@
+Fecha,Numero_Pedido,Nombre_Cliente,DNI,WhatsApp,Email,Direccion_y_CP,Pack_Elegido,Cantidad_Sobres,Monto_Cobrado_Tienda,Neto_Recibido_Pasarela,Costo_Producto,Costo_Packaging,Costo_Envio,Ganancia_Neta_Pedido,Empresa_Correo,Codigo_Seguimiento,Estado_Guia_PDF,Estado_Despacho
+2026-11-10,#1001,Ejemplo Juan Perez,40123456,+5491122334455,juan@ejemplo.com,"Av. Santa Fe 1234, CABA (CP 1425)",Pack x2 (20% OFF + Envio Gratis),2,$43900,$39950,$12000,$800,$6500,$20650,Correo Argentino Paq.ar,CA123456789AR,ENVIADA POR WHATSAPP,VERDE - DESPACHADO
