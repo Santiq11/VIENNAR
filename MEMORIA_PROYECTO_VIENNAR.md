@@ -19,6 +19,7 @@
   * 🎨 **Color Primario (Logo, Botones, Encabezados y Letras Principales):** Negro Mate Profundo (`#0D0D0D`)
   * 🎨 **Color de Acento (Fase 1 - "Ansiedad y Estrés" en el sobre y destacados):** Beige Arena Cálido (`#D8C3A5`)
   * 🎨 **Envase (Packaging):** Bolsa Doypack con cierre Zipper **Negro Mate Opaco (`#0D0D0D`, 10x15 cm o 11x16 cm)** por 30 gramos (30 porciones de 1g).
+* **⚠️ Pendiente de Auditoría (Pre-Lanzamiento):** Revisar el borrador final de Tiendanube generado por Claude para verificar que **no haya suavizado ni entibiado el copy persuasivo** frente a competidores directos (como *Fungi Melena*) antes de publicar.
 
 ---
 
