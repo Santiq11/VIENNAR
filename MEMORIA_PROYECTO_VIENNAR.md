@@ -29,9 +29,9 @@
 * **Ingrediente Principal:** **Ashwagandha en Polvo** (*Withania somnifera*).
 * **Problema que ataca:** Estrés diario, ansiedad, cortisol alto, hipervigilancia a los ruidos, nudo en el estómago (eje intestino-cerebro) y la paradoja de acostarse agotado y que se vaya el sueño.
 * **Oferta de Lanzamiento (Variantes de Cantidad + Bonus Digital Gratis):**
-  * **Lleva 1 Sobre (30 Mates):** \$26.900 ARS *(tachado \$34.900)* + Guía Digital de 7 Días Gratis.
-  * **🔥 Lleva 2 Sobres (20% OFF + Envío Gratis):** \$43.900 ARS *(tachado \$69.800)* + Guía Digital Gratis.
-  * **👑 Lleva 3 Sobres (35% OFF + Envío Gratis Prioritario):** \$56.900 ARS *(tachado \$104.700)* + Guía Digital Gratis.
+  * **Lleva 1 Sobre (30 Mates):** \$28.900 ARS *(tachado \$34.900)* + Guía Digital de 7 Días Gratis.
+  * **Lleva 2 Sobres (20% OFF + Envío Gratis):** \$46.200 ARS *(tachado \$57.800)* + Guía Digital Gratis.
+  * **Lleva 3 Sobres (30% OFF + Envío Gratis Prioritario):** \$60.700 ARS *(tachado \$86.700)* + Guía Digital Gratis.
 
 ### 🟡 FASE 2 (Guardado en Memoria para Expansión — Producto #2)
 * **Nombre en el Envase:** **VIENNAR — ENFOQUE Y MEMORIA**
