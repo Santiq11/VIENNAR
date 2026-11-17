@@ -33,8 +33,8 @@
 * **Problema que ataca:** Estrés diario, ansiedad, cortisol alto, hipervigilancia a los ruidos, nudo en el estómago (eje intestino-cerebro) y la paradoja de acostarse agotado y que se vaya el sueño.
 * **Oferta de Lanzamiento (Variantes de Cantidad + Bonus Digital Gratis):**
   * **Lleva 1 Sobre (30 Mates):** \$28.900 ARS *(tachado \$34.900)* + Guía Digital de 7 Días Gratis *(paga envío)*.
-  * **Lleva 2 Sobres (20% OFF):** \$46.200 ARS *(tachado \$57.800)* + Guía Digital Gratis *(paga envío)*.
-  * **Lleva 3 Sobres (30% OFF + Envío Gratis):** \$60.700 ARS *(tachado \$86.700)* + Guía Digital Gratis *(Envío Gratis desde \$60.000)*.
+  * **Lleva 2 Sobres (10% OFF) - Más Elegido:** \$52.000 ARS *(tachado \$57.800)* + Guía Digital Gratis *(paga envío)*.
+  * **Lleva 3 Sobres (20% OFF + Envío Gratis):** \$69.400 ARS *(tachado \$86.700)* + Guía Digital Gratis *(Envío Gratis desde \$60.000)*.
 
 ### 🟡 FASE 2 (Guardado en Memoria para Expansión — Producto #2)
 * **Nombre en el Envase:** **VIENNAR — ENFOQUE Y MEMORIA**
