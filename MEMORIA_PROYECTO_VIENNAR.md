@@ -20,6 +20,8 @@
   * 🎨 **Color de Acento (Fase 1 - "Ansiedad y Estrés" en el sobre y destacados):** Beige Arena Cálido (`#D8C3A5`)
   * 🎨 **Envase (Packaging):** Bolsa Doypack con cierre Zipper **Negro Mate Opaco (`#0D0D0D`, 10x15 cm o 11x16 cm)** por 30 gramos (30 porciones de 1g).
 * **⚠️ Pendiente de Auditoría (Pre-Lanzamiento):** Revisar el borrador final de Tiendanube generado por Claude para verificar que **no haya suavizado ni entibiado el copy persuasivo** frente a competidores directos (como *Fungi Melena*) antes de publicar.
+* **📦 Logística y Plan Tiendanube (Paraná / Gualeguay):** Usar **ÚNICAMENTE Correo Argentino (Clásico a domicilio + Clásico a sucursal)** dentro de Envío Nube (dejar **Andreani** y **Expreso** desactivados). Contratar **Plan Esencial** (~\$27.999 ARS/mes) recién el último día antes de prender anuncios en Meta Ads.
+* **💳 Medios de Pago (Pago Nube):** Validación con DNI (Consumidor Final al inicio) + **3 cuotas sin interés** (sin monto mínimo).
 
 ---
 
