@@ -17,11 +17,20 @@
 * **Paleta de Colores Oficial Elegida y Fijada:**
   * 🎨 **Fondo Principal Web y Tipografía del Logo:** Blanco Crema Suave (`#FAF8F5`)
   * 🎨 **Color Primario (Logo, Botones, Encabezados y Letras Principales):** Negro Mate Profundo (`#0D0D0D`)
-  * 🎨 **Color de Acento (Fase 1 - "Ansiedad y Estrés" en el sobre y destacados):** Beige Arena Cálido (`#D8C3A5`)
-  * 🎨 **Envase (Packaging):** Bolsa Doypack con cierre Zipper **Negro Mate Opaco (`#0D0D0D`, 10x15 cm o 11x16 cm)** por 30 gramos (30 porciones de 1g).
-* **⚠️ Pendiente de Auditoría (Pre-Lanzamiento):** Revisar el borrador final de Tiendanube generado por Claude para verificar que **no haya suavizado ni entibiado el copy persuasivo** frente a competidores directos (como *Fungi Melena*) antes de publicar.
-* **📦 Logística y Plan Tiendanube (Paraná / Gualeguay):** Usar **ÚNICAMENTE Correo Argentino (Clásico a domicilio + Clásico a sucursal)** dentro de Envío Nube (dejar **Andreani** y **Expreso** desactivados). Contratar **Plan Esencial** (~\$27.999 ARS/mes) recién el último día antes de prender anuncios en Meta Ads.
-* **💳 Medios de Pago (Pago Nube):** Validación con DNI (Consumidor Final al inicio) + **3 cuotas sin interés** (sin monto mínimo).
+  * 🎨 **Color de Acento:** Beige Arena Cálido (`#D8C3A5` en fondos/sobre) + **Arena Tostado Oscuro (`#7A5C38`)** para textos destacados, descuentos y barra de envío gratis sobre fondo claro.
+  * 🎨 **Envase (Packaging):** Bolsa Doypack tricapa con cierre Zipper **Negro Mate Opaco (`#0D0D0D`, 10x15 cm o 11x16 cm)** por 30 gramos (30 porciones de 1g), con etiquetas en **vinilo/OPP mate** (`8×10 cm` frente + `7×7 cm` dorso) y termosellado superior arriba del zipper.
+* **✅ Estado Tiendanube (Borrador Ipanema Auditado):** Producto visible con stock 20 por variante, 5 páginas legales creadas y conectadas al menú `footer`, favicon y logo cargados, barra de anuncios corta, sección *Nuestro producto*, bloque nativo *Preguntas Frecuentes* (sin Instagram ni testimonios ficticios), carrito con apertura automática (`Abrir carrito`) y barra de envío gratis desde **\$60.000 ARS** verificada.
+* **📦 Logística y Plan Tiendanube (Lanzamiento desde Gualeguay):** Usar **ÚNICAMENTE Correo Argentino (Clásico a domicilio + Clásico a sucursal)** dentro de Envío Nube (dejar **Andreani** y **Expreso** desactivados). Activar **7 días gratis de Plan Esencial** (~\$27.999 ARS/mes) + **Publicar borrador** recién al llegar a Gualeguay el último día antes de prender anuncios en Meta Ads.
+* **💳 Medios de Pago (Pago Nube):** Validación con DNI (Consumidor Final al inicio) + **3 cuotas sin interés** (sin monto mínimo) + transferencia/billeteras **Sin descuento adicional** (descuentos solo en Packs x2 `10% OFF` y x3 `20% OFF + Envío Gratis`).
+
+### 📅 Plan Maestro Pre-Lanzamiento (18 Nov – 15 Dic Digital → 16–18 Dic Lanzamiento en Gualeguay)
+* **Regla Operativa:** No comprar stock físico ni cajas en Paraná para no trasladar bultos en colectivo ni acumular mercadería antes del final de **Cálculo (15/12)**. Todo lo digital se deja 100% cerrado antes de viajar.
+* **Bloque 1 — Cierre Tiendanube:** Verificar contraste del Newsletter con `#7A5C38` y confirmar validación DNI en Pago Nube. *(En Gualeguay: actualizar Centro de Distribución al CP de Gualeguay).*
+* **Bloque 2 — Packaging Listo para Gráfica:** Diseñar etiquetas finales Frente (`8×10 cm`) y Dorso (`7×7 cm`) listas para imprimir + lista exacta de insumos para pedir **11–12/12 directo a Gualeguay** (250–500g Ashwagandha Natural Whey pidiendo vto. de lote + 50–100 Doypacks `10×15`/`11×16` + gramera + bolsas e-commerce).
+* **Bloque 3 — Instagram `@viennar.ar` + Fan Page:** Foto de perfil, bio, 4 destacadas y 6–9 posts iniciales para generar confianza y antigüedad previa a los anuncios.
+* **Bloque 4 — Infraestructura Meta Ads (\$0 gasto):** Business Suite, Fan Page vinculada a `@viennar.ar`, cuenta publicitaria + tarjeta en **Dólar MEP** (sin recargo del 60%), **Meta Pixel + CAPI** instalados en Tiendanube.
+* **Bloque 5 — Fábrica de Anuncios (4–6 creativos sin mostrar tu cara):** 3 imágenes estáticas (Canva) + 2–3 videos 9:16 (CapCut, voz en off/IA) + copies actualizados (sin Guía ni % OFF por transferencia).
+* **Día D (16–18 Dic en Gualeguay):** Recibir Lote Piloto, imprimir etiquetas y armar 8–16 sobres sellados → cambiar CP a Gualeguay → activar Plan Esencial (7 días gratis) → Publicar borrador → activar Correo Argentino Clásico (apagar Andreani) → verificar Pixel / simulación de checkout → prender campaña `\$4–\$5 USD/día`.
 
 ---
 
