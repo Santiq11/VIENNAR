@@ -111,3 +111,16 @@ Todos estos archivos están guardados tanto en tu computadora como subidos a tu 
 16. 🖼️ **[`slide1_desktop_1920x800.jpg`](file:///home/antigravity/Santiq11/VIENNAR/slide1_desktop_1920x800.jpg) y [`slide1_mobile_1080x1350.jpg`](file:///home/antigravity/Santiq11/VIENNAR/slide1_mobile_1080x1350.jpg):** Banners principales de Tiendanube con Mate Imperial negro y zona clara `#FAF8F5` para texto.
 17. 📦 **[`producto_pack_x2_1200x1200.jpg`](file:///home/antigravity/Santiq11/VIENNAR/producto_pack_x2_1200x1200.jpg), [`producto_pack_x3_1200x1200.jpg`](file:///home/antigravity/Santiq11/VIENNAR/producto_pack_x3_1200x1200.jpg) y [`producto_modo_uso_1200x1200.jpg`](file:///home/antigravity/Santiq11/VIENNAR/producto_modo_uso_1200x1200.jpg):** Fotos oficiales `1200×1200 px` para la ficha de producto y futuros creativos de Meta Ads.
 18. 🗂️ **`viennar_hongo_chico_1.jpg` a `viennar_hongo_chico_4.jpg`:** Variantes exploratorias anteriores guardadas como archivo histórico.
+19. 📱 **[`CONTENIDO_INSTAGRAM_VIENNAR.md`](file:///home/antigravity/Santiq11/VIENNAR/CONTENIDO_INSTAGRAM_VIENNAR.md) y carpeta `instagram_assets/`:** Kit completo de contenido de `@viennar.ar` (6 Historias Destacadas + 9 Posts del Feed + 26 placas listas).
+
+---
+
+## 6. Sistema Visual Oficial de Instagram (`@viennar.ar`) — Estándar para Futuros Contenidos
+
+* **Estado al 19/11/2026:** Perfil personalizado, historias subidas (esperando 24h de archivo para fijar las 6 Destacadas) y primeros **3 posts** del feed publicados (próximos 3 en unos días hasta completar la grilla `3×3`).
+* **Formatos y Medidas Oficiales:**
+  * **Portadas de Destacadas (`1080×1080`):** Fondo `#0D0D0D`, `#FAF8F5` o `#D8C3A5`, círculo fino centrado con `VIENNAR` arriba, título en **1 sola línea** (o 2 palabras cortas si entra holgado) y divisor horizontal en `#D8C3A5` o `#7A5C38`.
+  * **Placas de Historias (`1080×1920`, 9:16):** Píldora superior izquierda (categoría) + wordmark `VIENNAR` arriba a la derecha + título bold grande + barra acento + lead destacado + bullets directos (lenguaje concreto igual a la web: ansiedad, estrés, cortisol, descanso) + footer con `@viennar.ar`.
+  * **Placas de Feed (`1080×1350`, 4:5):** Mismo layout editorial minimalista alternando fondos `#0D0D0D`, `#FAF8F5` y `#D8C3A5` (con `#7A5C38` de acento sobre claro), combinadas con fotos reales del producto (`mockup_oficial_viennar_mate.jpg`, `producto_modo_uso_1200x1200.jpg`, `producto_pack_x2_1200x1200.jpg`, `producto_pack_x3_1200x1200.jpg`).
+* **Regla de Tono:** Directo, claro y sin vueltas (hablar de ansiedad, estrés, cortisol y descanso real sin miedo, sin testimonios ficticios y sin Guía PDF ni % OFF por transferencia).
+
